@@ -1,0 +1,34 @@
+{
+  "merch": [
+    {
+      "img": "./assets/img/merch/basic-tee.jpg",
+      "name": "Basic Tee",
+      "price": 100
+    },
+    {
+      "img": "./assets/img/merch/tee-logo.png",
+      "name": "Tee with logo",
+      "price": 115
+    },
+    {
+      "img": "./assets/img/merch/jacket.jpg",
+      "name": "Jacket",
+      "price": 150
+    },
+    {
+      "img": "./assets/img/merch/trouser.jpg",
+      "name": "Trouser",
+      "price": 195
+    },
+    {
+      "img": "./assets/img/merch/hat.jpg",
+      "name": "Hat",
+      "price": 50
+    },
+    {
+      "img": "./assets/img/merch/short.jpg",
+      "name": "Short",
+      "price": 95
+    }
+  ]
+}
